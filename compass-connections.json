@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "119b5184-8510-49d7-98e3-0850ca8d4bff",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1729696229249"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.tgr2c.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://ujwalraj052:qhdsf3q3YtJT47gG@cluster0.tgr2c.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
